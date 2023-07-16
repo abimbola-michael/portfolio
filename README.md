@@ -1,6 +1,8 @@
 # portfolio
 
-A new Flutter project.
+A portfolio app built with Flutter.
+
+The website link: https://hotshotmobilesolutions.netlify.app/
 
 ## Getting Started
 
